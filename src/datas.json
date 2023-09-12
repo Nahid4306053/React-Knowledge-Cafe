@@ -1,0 +1,123 @@
+[
+                    {
+                      "id": "1",
+                      "cover_img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+                      "author_name": "John Doe",
+                      "author_img": "https://images.unsplash.com/photo-1619498594340-4c078feb1661?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNpbmdsZSUyMHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-11",
+                      "post_readtime": "10 mins",
+                      "title": "The Marvels of Astronomy",
+                      "description": "Embark on a cosmic journey as we explore the mysteries of the universe. Our articles take you from the birth of stars to the search for extraterrestrial life. Delve into the wonders of distant galaxies, black holes, and the latest breakthroughs in space exploration. Join us in unraveling the secrets of the night sky and the limitless possibilities of space travel. Discover the fascinating world of astronomy with our in-depth content."
+                   ,
+                      "hashtags": ["programming", "coding", "creativity"]
+                    },
+                    {
+                      "id": "2",
+                      "cover_img": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                      "author_name": "Alice Smith",
+                      "author_img": "https://images.unsplash.com/photo-1547357812-3ab8ce7bd956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNpbmdsZSUyMHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-10",
+                      "post_readtime": "8 mins",
+                      "title": "Culinary Adventures Await",
+                      "description": "Get ready for a culinary adventure like no other! From gourmet dishes to quick and easy meals, we've got your cravings covered. Learn about diverse cuisines from around the world and get expert advice from top chefs. Whether you're a seasoned cook or a beginner in the kitchen, our culinary content will inspire you to whip up delicious creations that will delight your taste buds. Dive into the world of flavors and gastronomic delights with us."
+                   ,
+                      "hashtags": ["nature", "environment", "outdoors"]
+                    },
+                    {
+                      "id": "3",
+                      "cover_img": "https://images.unsplash.com/photo-1508873699372-7aeab60b44ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                      "author_name": "Emily Johnson",
+                      "author_img": "https://images.unsplash.com/photo-1550256576-e9aa86d52932?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHNpbmdsZSUyMHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-09",
+                      "post_readtime": "12 mins",
+                      "title": "Artistry Unleashed",
+                      "description": "Immerse yourself in the world of art and creativity. Explore the works of renowned artists, from classical masters to contemporary visionaries. Our articles cover a wide range of artistic expressions, from painting and sculpture to photography and digital art. Dive into the stories behind famous artworks and discover emerging talents. Get inspired to unleash your own creativity and appreciate the beauty of human imagination through the lens of art."
+                  ,
+                      "hashtags": ["photography", "art", "creativity"]
+                    },
+                    {
+                      "id": "4",
+                      "cover_img": "https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                      "author_name": "David Brown",
+                      "author_img": "https://images.unsplash.com/photo-1504279328919-cb04cd3be99b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2xlJTIwcGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-08",
+                      "post_readtime": "15 mins",
+                      "title": "Healthy Living Tips",
+                      "description": "Step into the realm of health and wellness, where your well-being takes center stage. We provide expert guidance on maintaining a healthy lifestyle, from fitness routines to mindful practices. Explore the benefits of yoga, meditation, and stress management techniques. Stay up-to-date with the latest trends in nutrition and holistic wellness. Prioritize self-care and embark on a journey to a happier, healthier you with our informative wellness content.",
+                      "hashtags": ["health", "wellness", "lifestyle"]
+                    },
+                    {
+                      "id": "5",
+                      "cover_img": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                      "author_name": "Sophia Lee",
+                      "author_img": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGh1bWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-03",
+                      "post_readtime": "9 mins",
+                     
+                      "title": "Wellness for a Better You",
+                      "description": "Step into the realm of health and wellness, where your well-being takes center stage. We provide expert guidance on maintaining a healthy lifestyle, from fitness routines to mindful practices. Explore the benefits of yoga, meditation, and stress management techniques. Stay up-to-date with the latest trends in nutrition and holistic wellness. Prioritize self-care and embark on a journey to a happier, healthier you with our informative wellness content."
+                  ,
+                      "hashtags": ["music", "art", "culture"]
+                    },
+                    {
+                      "id": "6",
+                      "cover_img": "https://images.unsplash.com/photo-1496661415325-ef852f9e8e7c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2127&q=80",
+                      "author_name": "Michael Johnson",
+                      "author_img": "https://plus.unsplash.com/premium_photo-1684581214880-2043e5bc8b8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                      "post_date": "2023-09-06",
+                      "post_readtime": "11 mins",
+                      "title": "A Literary Odyssey",
+                      "description": "Join us on a literary journey that celebrates the written word and the stories that shape our world. From classic novels to contemporary bestsellers, our articles delve into the literary landscape. Discover the magic of storytelling techniques, book reviews, and author interviews. Explore the worlds created by words and dive deep into the narratives that have captured our hearts and minds throughout history."
+                   ,
+                      "hashtags": ["food", "travel", "cuisine"]
+                    },
+                    {
+                      "id": "7",
+                      "cover_img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+                      "author_name": "Olivia White",
+                      "author_img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-05",
+                      "post_readtime": "7 mins",
+                      "title": "Nature's Wonders",
+                      "description": "Join us in celebrating the beauty of our planet and the wonders of nature. Explore the diverse ecosystems, wildlife, and environmental issues that shape our world. Dive into breathtaking landscapes through stunning photography and in-depth articles. Learn about conservation efforts and sustainable living practices. Let's work together to preserve the natural treasures of our Earth for future generations."
+                   ,
+                      "hashtags": ["mindfulness", "meditation", "mentalhealth"]
+                    },
+                    {
+                      "id": "8",
+                      "cover_img": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                      "author_name": "William Clark",
+                      "author_img": "https://plus.unsplash.com/premium_photo-1666265087928-fe19db9887ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-04",
+                      "post_readtime": "13 mins",
+                      "title": "Tech Innovations Unveiled",
+                      "description": "Uncover the secrets of technology and innovation that are shaping our future. Stay updated on the latest gadgets, software, and tech trends. Dive into the world of artificial intelligence, virtual reality, and cutting-edge discoveries. Explore how technology is revolutionizing industries and changing the way we live and work. Join us on a journey through the digital frontier with our tech-focused content."
+                   ,
+                      "hashtags": ["space", "exploration", "science"]
+                    },
+                    {
+                      "id": "9",
+                      "cover_img": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80",
+                      "author_name": "Sophie Martin",
+                      "author_img": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-03",
+                      "post_readtime": "6 mins",
+                      
+                      "title": "Chronicles of the Past",
+                      "description": "Venture into the world of history and explore the stories that have shaped our world. From ancient civilizations to modern revolutions, our articles offer a glimpse into the past. Discover the lives of historical figures, pivotal events, and forgotten tales. Delve into the mysteries of archaeology and uncover the artifacts that connect us to our ancestors. Let history come alive through our engaging historical content."
+                    ,
+                      "hashtags": ["art", "creativity", "life"]
+                    },
+                    {
+                      "id": "10",
+                      "cover_img": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                      "author_name": "Ethan Wilson",
+                      "author_img": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+                      "post_date": "2023-09-02",
+                      "post_readtime": "10 mins",
+                      "title": "Fashion and Style Evolution",
+                      "description": "Embark on a journey through the ever-evolving world of fashion and style. Stay updated on the latest fashion trends, beauty tips, and style inspirations. Explore the art of self-expression through clothing and accessories. Learn about sustainable fashion choices and the impact of the fashion industry on the environment. Whether you're a fashionista or a fashion novice, our content will keep you looking and feeling your best."
+                   ,
+                      "hashtags": ["literature", "books", "reading"]
+                    }
+                  ]
